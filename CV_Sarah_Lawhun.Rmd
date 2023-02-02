@@ -9,8 +9,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Cat Enthusiast
 
-![The Cat Enthusiast](C:\Users\sarah\Pictures\DNRE Orientation Pics\Tumblr_l_1218567202097287.jpg){width=15%}
+![*The Cat Enthusiast*](C:\Users\sarah\Pictures\DNRE Orientation Pics\Tumblr_l_1218567202097287.jpg){width=15%}
 
+\right 
 
 ##### **Cats I have been enthusiastic about**: {style="float:center"}
 

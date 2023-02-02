@@ -7,7 +7,7 @@ Sarah Lawhun
 <img
 src="C:\Users\sarah\Pictures\DNRE%20Orientation%20Pics\Tumblr_l_1218567202097287.jpg"
 style="width:15.0%" alt="The Cat Enthusiast" />
-<figcaption aria-hidden="true">The Cat Enthusiast</figcaption>
+<figcaption aria-hidden="true"><em>The Cat Enthusiast</em></figcaption>
 </figure>
 
 ##### **Cats I have been enthusiastic about**:
