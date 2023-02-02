@@ -8,7 +8,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Cat Enthusmatist
+## Cat Enthusiast!!!
 
 ![*The Cat Enthusiast*](C:\Users\sarah\Pictures\DNRE Orientation Pics\Tumblr_l_1218567202097287.jpg){width=15%}
 
