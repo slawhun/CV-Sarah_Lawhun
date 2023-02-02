@@ -1,7 +1,7 @@
 Sarah Lawhun
 ================
 
-## Cat Enthusiast
+## Cat Enthusmatist
 
 <figure>
 <img
