@@ -9,6 +9,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Cat Enthusiast
 
+![The Cat Enthusiast](C:\Users\sarah\Pictures\DNRE Orientation Pics\Tumblr_l_1218567202097287.jpg){width=15%}
+
+
 ##### **Cats I have been enthusiastic about**: {style="float:center"}
 
 Name of Cat                              | Personality                          |Appearance          
@@ -30,7 +33,7 @@ Gramps                                   |Old, tired                            
 * I may or may not be a cat
 * Meow
 
-![Cats...](https://thebiologist.rsb.org.uk/images/biologist/Cats_genetics.jpg)
+![Cats...](https://thebiologist.rsb.org.uk/images/biologist/Cats_genetics.jpg){width=60%}
 
 <br>
 

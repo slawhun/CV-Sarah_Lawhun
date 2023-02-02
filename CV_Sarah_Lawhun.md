@@ -3,6 +3,13 @@ Sarah Lawhun
 
 ## Cat Enthusiast
 
+<figure>
+<img
+src="C:\Users\sarah\Pictures\DNRE%20Orientation%20Pics\Tumblr_l_1218567202097287.jpg"
+style="width:15.0%" alt="The Cat Enthusiast" />
+<figcaption aria-hidden="true">The Cat Enthusiast</figcaption>
+</figure>
+
 ##### **Cats I have been enthusiastic about**:
 
 | Name of Cat  | Personality           | Appearance               |
@@ -27,7 +34,12 @@ Sarah Lawhun
 - I may or may not be a cat
 - Meow
 
-![Cats…](https://thebiologist.rsb.org.uk/images/biologist/Cats_genetics.jpg)
+<figure>
+<img
+src="https://thebiologist.rsb.org.uk/images/biologist/Cats_genetics.jpg"
+style="width:60.0%" alt="Cats…" />
+<figcaption aria-hidden="true">Cats…</figcaption>
+</figure>
 
 <br>
 
